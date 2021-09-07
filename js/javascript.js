@@ -16,21 +16,36 @@
 // test();
 
 
-document.querySelector("nav-link").addEventListener("click", clikbtn());
+// document.querySelector("nav-link").addEventListener("click", clikbtn());
 
-function clikbtn(){
-    // console.log("btnclike");
-   alert("Hello JAI");
-}
+// function clikbtn(){
+//     // console.log("btnclike");
+//    alert("Hello JAI");
+// }
 
-document.getElementById("btnclik").addEventListener("click", clikbtn());
+// document.getElementById("btnclik").addEventListener("click", clikbtn());
  
-function clikbtn(){
-    alert("Click ok");
-}
+// function clikbtn(){
+//     alert("Click ok");
+// }
 
-document.getElementById("btncliked").addEventListener("click", handleClick);
+// document.getElementById("btncliked").addEventListener("click", handleClick);
 
-function handleClick(){
-   console.log("Welcome JAI");
-}
+// function handleClick(){
+//    console.log("Welcome JAI");
+// }
+
+// document.addEventListener("keypress", function() {
+//     alert("key was pressed!");
+// }); 
+
+
+// $("input").keypress(function(event){
+//     alert(String.fromCharCode(event.which)); 
+//   });   
+
+document.addEventListener("keypress", function(){
+
+    
+    //alert("Key Press");
+})
