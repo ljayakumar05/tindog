@@ -49,3 +49,25 @@ document.addEventListener("keypress", function(){
     
     //alert("Key Press");
 })
+
+
+document.addEventListener("keypress", function(){
+
+    
+    //alert("Key Press");
+})
+document.addEventListener("keypress", function(){
+
+    
+    //alert("Key Press");
+})
+document.addEventListener("keypress", function(){
+
+    
+    //alert("Key Press");
+})
+document.addEventListener("keypress", function(){
+
+    
+    //alert("Key Press");
+})
